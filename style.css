@@ -33,8 +33,9 @@ body {
   padding: 35px;
 }
 
-.description h2 {
+.description h1 {
   color: hsl(218, 44%, 22%);
+  font-size: 21px;
 }
 
 .description p {
